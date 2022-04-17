@@ -1,0 +1,53 @@
+
+.centrado{
+    text-align: center;
+    position: relative;
+    margin: 0 10%;
+    padding: 5%;
+    
+}
+.sheilaimg{
+    width: 20%;
+    border-radius: 40%;
+        }
+.portfimg{
+    width: 80%;
+    height: 70%;
+    margin: 2% 0;
+    border-radius: 5%;
+}
+.navshei{
+    background-color: #464646;
+    color: #FFFFFF;
+}
+.jumboshei{
+    background-color: #30391f;
+    color: #FFFFFF;
+    height: 90%;
+}
+.portfolioshei{
+    background-color: #668A4C;
+    color: #FFFFFF;
+
+}
+.acercashei{
+    background-color: #Accc7B;
+    color: #FFFFFF;
+
+}
+.formshei{
+    background-color: #464646;
+    padding: 3%;
+    color: #FFFFFF;
+}
+.footershei{
+    color: #464646;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+a:hover{
+    color: #464646;
+}
+
